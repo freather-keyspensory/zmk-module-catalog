@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "name": "Keyspensory",
+  "modules": [
+    {
+      "id": "zmk__battery_history",
+      "name": "Battery history",
+      "repository": "https://github.com/cormoran/zmk-module-battery-history",
+      "editorUrl": "https://cormoran.github.io/zmk-module-battery-history/"
+    },
+    {
+      "id": "cormoran_ble",
+      "name": "Bluetooth management",
+      "repository": "https://github.com/cormoran/zmk-module-ble-management",
+      "editorUrl": "https://cormoran.github.io/zmk-module-ble-management/"
+    },
+    {
+      "id": "cormoran_custom_settings",
+      "name": "Custom settings",
+      "repository": "https://github.com/cormoran/zmk-feature-custom-settings",
+      "editorUrl": "https://cormoran.github.io/zmk-feature-custom-settings/"
+    },
+    {
+      "id": "zmk__device_info",
+      "name": "Device information",
+      "repository": "https://github.com/cormoran/zmk-feature-device-info",
+      "editorUrl": "https://cormoran.github.io/zmk-feature-device-info/"
+    },
+    {
+      "id": "cormoran__fast_keymap",
+      "name": "Fast keymap",
+      "repository": "https://github.com/cormoran/zmk-feature-fast-keymap",
+      "editorUrl": "https://cormoran.github.io/zmk-feature-fast-keymap/"
+    },
+    {
+      "id": "cormoran__os_detection",
+      "name": "Host operating system",
+      "repository": "https://github.com/cormoran/zmk-feature-os-detection",
+      "editorUrl": "https://cormoran.github.io/zmk-feature-os-detection/"
+    },
+    {
+      "id": "zmk__input_stream",
+      "name": "Input stream",
+      "repository": "https://github.com/cormoran/zmk-feature-input-stream",
+      "editorUrl": "https://cormoran.github.io/zmk-feature-input-stream/"
+    },
+    {
+      "id": "cormoran__kscan_diagnostics",
+      "name": "Key scan diagnostics",
+      "repository": "https://github.com/cormoran/zmk-feature-kscan-diagnostics",
+      "editorUrl": "https://cormoran.github.io/zmk-feature-kscan-diagnostics/"
+    },
+    {
+      "id": "cormoran__led_brightness",
+      "name": "LED brightness",
+      "repository": "https://github.com/cormoran/zmk-led-brightness-rpc",
+      "editorUrl": "https://cormoran.github.io/zmk-led-brightness-rpc/"
+    },
+    {
+      "id": "cormoran__physical_layouts",
+      "name": "Module physical layouts",
+      "repository": "https://github.com/cormoran/zmk-feature-module-physical-layout",
+      "editorUrl": "https://cormoran.github.io/zmk-feature-module-physical-layout/"
+    },
+    {
+      "id": "cormoran__pmw3610",
+      "name": "PMW3610 sensor",
+      "repository": "https://github.com/cormoran/zmk-driver-pmw3610-with-custom-studio-rpc",
+      "editorUrl": "https://cormoran.github.io/zmk-driver-pmw3610-with-custom-studio-rpc/"
+    },
+    {
+      "id": "cormoran__runtime_combo",
+      "name": "Runtime combos",
+      "repository": "https://github.com/cormoran/zmk-feature-runtime-combo",
+      "editorUrl": "https://cormoran.github.io/zmk-feature-runtime-combo/"
+    },
+    {
+      "id": "cormoran_rip",
+      "name": "Runtime input processors",
+      "repository": "https://github.com/cormoran/zmk-module-runtime-input-processor",
+      "editorUrl": "https://cormoran.github.io/zmk-module-runtime-input-processor/"
+    },
+    {
+      "id": "cormoran__runtime_macro",
+      "name": "Runtime macros",
+      "repository": "https://github.com/cormoran/zmk-feature-runtime-macro",
+      "editorUrl": "https://cormoran.github.io/zmk-feature-runtime-macro/"
+    },
+    {
+      "id": "cormoran__runtime_tapdance",
+      "name": "Runtime tap dance",
+      "repository": "https://github.com/cormoran/zmk-feature-runtime-tapdance",
+      "editorUrl": "https://cormoran.github.io/zmk-feature-runtime-tapdance/"
+    },
+    {
+      "id": "zmk__settings",
+      "name": "Settings RPC",
+      "repository": "https://github.com/cormoran/zmk-module-settings-rpc",
+      "editorUrl": "https://cormoran.github.io/zmk-module-settings-rpc/"
+    },
+    {
+      "id": "zmk__perf",
+      "name": "Studio RPC performance",
+      "repository": "https://github.com/cormoran/zmk-feature-studio-rpc-perf",
+      "editorUrl": "https://cormoran.github.io/zmk-feature-studio-rpc-perf/"
+    },
+    {
+      "id": "cormoran__watchdog",
+      "name": "Watchdog",
+      "repository": "https://github.com/cormoran/zmk-feature-watchdog",
+      "editorUrl": "https://cormoran.github.io/zmk-feature-watchdog/"
+    },
+    {
+      "id": "zmk__setting_expose",
+      "name": "Zephyr settings",
+      "repository": "https://github.com/cormoran/zmk-feature-zephyr-setting-expose",
+      "editorUrl": "https://cormoran.github.io/zmk-feature-zephyr-setting-expose/"
+    }
+  ]
+}
